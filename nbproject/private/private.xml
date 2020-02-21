@@ -3,12 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/edoal/Desktop/MicroBlog/web/postList.jsp</file>
-            <file>file:/C:/Users/edoal/Desktop/MicroBlog/src/java/servlet/stampaPost.java</file>
-            <file>file:/C:/Users/edoal/Desktop/MicroBlog/web/index.html</file>
-            <file>file:/C:/Users/edoal/Desktop/MicroBlog/src/java/servlet/RegistraUtente.java</file>
-            <file>file:/C:/Users/edoal/Desktop/MicroBlog/src/java/servlet/ControllaCreatorPost.java</file>
-            <file>file:/C:/Users/edoal/Desktop/MicroBlog/src/java/servlet/LogoutUtente.java</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/src/java/servlet/LoginUtente.java</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/src/java/DAO/UtenteJpaController.java</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/web/login.html</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/src/java/servlet/CreaPost.java</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/web/register.html</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/web/index.html</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/web/utenteNonAutorizzato.html</file>
+            <file>file:/C:/Users/17682/Desktop/MicroBlog-master/web/postList.jsp</file>
         </group>
     </open-files>
 </project-private>
