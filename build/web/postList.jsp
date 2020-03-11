@@ -65,7 +65,7 @@ and open the template in the editor.
           
             <div class="container-login100">
                 <div class="wrap-login100 p-t-85 p-b-20">
-                    <span class="login100-form-title p-b-30" onclick="location.href = 'index.html';>
+                    <span class="login100-form-title p-b-30">
                         Benvenuto nella lista dei post
                     </span>
                     <form action="ControllaCreatorPost">
